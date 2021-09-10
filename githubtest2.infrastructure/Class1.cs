@@ -4,5 +4,6 @@ namespace githubtest2.infrastructure
 {
     public class Class1
     {
+        public string Test { get; set; }
     }
 }

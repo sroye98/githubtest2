@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.domain", "githubtest2.domain\githubtest2.domain.csproj", "{A57B4A60-1E13-44A0-B2C6-ED3914FFA44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.domain.shared", "githubtest2.domain.shared\githubtest2.domain.shared.csproj", "{B59B232D-6184-45E1-8D25-79223634D821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.infrastructure", "githubtest2.infrastructure\githubtest2.infrastructure.csproj", "{74374A26-B38C-4912-90AF-2894B467997C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.application", "githubtest2.application\githubtest2.application.csproj", "{F270456F-BF49-42C6-AAC7-F610236F8813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.webapi", "githubtest2.webapi\githubtest2.webapi.csproj", "{B392E9FD-88FC-4BA7-A4D4-160D9A05B105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.reactsite", "githubtest2.reactsite\githubtest2.reactsite.csproj", "{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57B4A60-1E13-44A0-B2C6-ED3914FFA44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57B4A60-1E13-44A0-B2C6-ED3914FFA44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57B4A60-1E13-44A0-B2C6-ED3914FFA44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57B4A60-1E13-44A0-B2C6-ED3914FFA44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59B232D-6184-45E1-8D25-79223634D821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59B232D-6184-45E1-8D25-79223634D821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59B232D-6184-45E1-8D25-79223634D821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59B232D-6184-45E1-8D25-79223634D821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74374A26-B38C-4912-90AF-2894B467997C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74374A26-B38C-4912-90AF-2894B467997C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74374A26-B38C-4912-90AF-2894B467997C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74374A26-B38C-4912-90AF-2894B467997C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F270456F-BF49-42C6-AAC7-F610236F8813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F270456F-BF49-42C6-AAC7-F610236F8813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F270456F-BF49-42C6-AAC7-F610236F8813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F270456F-BF49-42C6-AAC7-F610236F8813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B392E9FD-88FC-4BA7-A4D4-160D9A05B105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B392E9FD-88FC-4BA7-A4D4-160D9A05B105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B392E9FD-88FC-4BA7-A4D4-160D9A05B105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B392E9FD-88FC-4BA7-A4D4-160D9A05B105}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D243F57-B696-4E08-A07E-4E2EFFEBAB79}
+	EndGlobalSection
+EndGlobal

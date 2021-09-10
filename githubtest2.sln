@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.webapi", "githu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.reactsite", "githubtest2.reactsite\githubtest2.reactsite.csproj", "{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "githubtest2.workerservice", "githubtest2.workerservice\githubtest2.workerservice.csproj", "{B8358CB5-BAB7-4B52-9ECB-586F9F0F9926}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF8B35D5-5DE3-4537-BFEB-518FBAF6C1BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8358CB5-BAB7-4B52-9ECB-586F9F0F9926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8358CB5-BAB7-4B52-9ECB-586F9F0F9926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8358CB5-BAB7-4B52-9ECB-586F9F0F9926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8358CB5-BAB7-4B52-9ECB-586F9F0F9926}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
